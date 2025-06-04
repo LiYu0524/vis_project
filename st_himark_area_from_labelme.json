@@ -1,0 +1,116 @@
+[
+  {
+    "rank":1,
+    "name":"Safe Town",
+    "area":16894.86,
+    "percentage":11.098
+  },
+  {
+    "rank":2,
+    "name":"Broadview",
+    "area":16110.91,
+    "percentage":10.583
+  },
+  {
+    "rank":3,
+    "name":"Old Town",
+    "area":15675.39,
+    "percentage":10.297
+  },
+  {
+    "rank":4,
+    "name":"Cheddarford",
+    "area":11146.8,
+    "percentage":7.322
+  },
+  {
+    "rank":5,
+    "name":"Palace Hills",
+    "area":9343.96,
+    "percentage":6.138
+  },
+  {
+    "rank":6,
+    "name":"Southwest",
+    "area":8893.45,
+    "percentage":5.842
+  },
+  {
+    "rank":7,
+    "name":"Pepper Mill",
+    "area":8123.84,
+    "percentage":5.337
+  },
+  {
+    "rank":8,
+    "name":"Northwest",
+    "area":7736.57,
+    "percentage":5.082
+  },
+  {
+    "rank":9,
+    "name":"Wilson Forest",
+    "area":6877.44,
+    "percentage":4.518
+  },
+  {
+    "rank":10,
+    "name":"Terrapin Springs",
+    "area":6825.4,
+    "percentage":4.484
+  },
+  {
+    "rank":11,
+    "name":"West Parton",
+    "area":6541.18,
+    "percentage":4.297
+  },
+  {
+    "rank":12,
+    "name":"East Parton",
+    "area":6449.38,
+    "percentage":4.237
+  },
+  {
+    "rank":13,
+    "name":"Chapparal",
+    "area":6263.69,
+    "percentage":4.115
+  },
+  {
+    "rank":14,
+    "name":"Easton",
+    "area":5063.67,
+    "percentage":3.326
+  },
+  {
+    "rank":15,
+    "name":"Downtown",
+    "area":4976.15,
+    "percentage":3.269
+  },
+  {
+    "rank":16,
+    "name":"Oak Willow",
+    "area":4929.29,
+    "percentage":3.238
+  },
+  {
+    "rank":17,
+    "name":"Weston",
+    "area":3711.6,
+    "percentage":2.438
+  },
+  {
+    "rank":18,
+    "name":"Scenic Vista",
+    "area":3629.99,
+    "percentage":2.385
+  },
+  {
+    "rank":19,
+    "name":"Southton",
+    "area":3035.91,
+    "percentage":1.994
+  }
+]
