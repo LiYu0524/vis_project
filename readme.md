@@ -27,6 +27,14 @@ ST_Himark 地震可视化项目
 
 Visualization for ST_himark Earthquake
 
+## our ans
+
+### ans1_fig
+
+[Earthquake event](./vis/shake_ans1/shake_vis.png)
+
+### ans2_fig
+
 ## vis
 
 `labelme` is used to create map annotation in JSON format
